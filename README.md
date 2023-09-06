@@ -1,5 +1,11 @@
 # Flight Price Analysis and Prediction
 
+
+## Explore the Report
+
+You can access and explore the full report [here](https://pranavsai-98.github.io/Flight-Price-Analysis-and-Prediction/).
+
+
 ## Description
 
 In recent years, air travel surged as a preferred mode of transportation. However, the pandemic temporarily halted this trend. Now, with easing restrictions, the demand is rebounding. Airlines use advanced machine learning models to adjust ticket prices throughout the day based on numerous factors. This project delves into these pricing strategies, aiming to uncover insights and answer pivotal questions about flight pricing.
