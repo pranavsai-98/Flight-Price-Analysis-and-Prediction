@@ -20,4 +20,4 @@ In recent years, air travel surged as a preferred mode of transportation. Howeve
 
 ## Usage
 
-This is a comprehensive report detailing our findings on flight pricing strategies.
+This is a comprehensive report detailing my findings on flight pricing strategies.
