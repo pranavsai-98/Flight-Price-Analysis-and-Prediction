@@ -3,7 +3,7 @@
 
 ## Explore the Report
 
-You can access and explore the full report [here](https://pranavsai-98.github.io/Flight-Price-Analysis-and-Prediction/).
+You can access and explore the full [report](https://pranavsai-98.github.io/Flight-Price-Analysis-and-Prediction/) and [presentation](https://prezi.com/view/PEylxmMMFIHu1d92lEP6/)
 
 
 ## Description
